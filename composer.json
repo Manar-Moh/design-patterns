@@ -3,7 +3,7 @@
     "autoload": {
         "psr-4": {
             "Dell\\DesignPatterns\\": "src/",
-            "PHP\\Observer\\WithPattern\\": "PHP/Observer/WithPattern/"
+            "PHP\\Observer\\OnlineMarketplaceProject\\WithPattern\\": "PHP/Observer/OnlineMarketplaceProject/WithPattern/"
 
         }
     },

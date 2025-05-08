@@ -9,7 +9,7 @@ class ComposerStaticInitb9b682354412b4f70950fe86cb7849c4
     public static $prefixLengthsPsr4 = array (
         'P' => 
         array (
-            'PHP\\Observer\\WithPattern\\' => 25,
+            'PHP\\Observer\\OnlineMarketplaceProject\\WithPattern\\' => 50,
         ),
         'D' => 
         array (
@@ -18,9 +18,9 @@ class ComposerStaticInitb9b682354412b4f70950fe86cb7849c4
     );
 
     public static $prefixDirsPsr4 = array (
-        'PHP\\Observer\\WithPattern\\' => 
+        'PHP\\Observer\\OnlineMarketplaceProject\\WithPattern\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/PHP/Observer/WithPattern',
+            0 => __DIR__ . '/../..' . '/PHP/Observer/OnlineMarketplaceProject/WithPattern',
         ),
         'Dell\\DesignPatterns\\' => 
         array (

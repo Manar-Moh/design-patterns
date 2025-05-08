@@ -6,6 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'PHP\\Observer\\WithPattern\\' => array($baseDir . '/PHP/Observer/WithPattern'),
+    'PHP\\Observer\\OnlineMarketplaceProject\\WithPattern\\' => array($baseDir . '/PHP/Observer/OnlineMarketplaceProject/WithPattern'),
     'Dell\\DesignPatterns\\' => array($baseDir . '/src'),
 );

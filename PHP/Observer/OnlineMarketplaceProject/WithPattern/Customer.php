@@ -1,6 +1,6 @@
 <?php
 
-namespace PHP\Observer\WithPattern;
+namespace PHP\Observer\OnlineMarketplaceProject\WithPattern;
 
 class Customer implements Subscriber {
     private $name = "";

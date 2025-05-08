@@ -1,13 +1,13 @@
 <?php
-require_once  '../../../vendor/autoload.php';
+require_once '../../../../vendor/autoload.php';
 
 
-use PHP\Observer\WithPattern\Customer;
-use PHP\Observer\WithPattern\EventType;
-use PHP\Observer\WithPattern\JobFinder;
-use PHP\Observer\WithPattern\OnlineMarketplace;
-use PHP\Observer\WithPattern\Product;
-use PHP\Observer\WithPattern\Offer;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\Customer;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\EventType;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\JobFinder;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\OnlineMarketplace;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\Product;
+use PHP\Observer\OnlineMarketplaceProject\WithPattern\Offer;
 
 $marketplace = new OnlineMarketplace();
 

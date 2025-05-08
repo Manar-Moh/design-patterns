@@ -1,5 +1,5 @@
 <?php
-namespace PHP\Observer\WithPattern;
+namespace PHP\Observer\OnlineMarketplaceProject\WithPattern;
 class Offer{
     private $description = "";
 

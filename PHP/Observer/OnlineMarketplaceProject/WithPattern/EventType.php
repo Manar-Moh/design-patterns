@@ -1,5 +1,5 @@
 <?php
-namespace PHP\Observer\WithPattern;
+namespace PHP\Observer\OnlineMarketplaceProject\WithPattern;
 enum EventType: string
 {
     case NEW_PRODUCT = 'new_product';
