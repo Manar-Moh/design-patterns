@@ -1,0 +1,17 @@
+{
+    "name": "dell/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Dell\\DesignPatterns\\": "src/",
+            "PHP\\Observer\\WithPattern\\": "PHP/Observer/WithPattern/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Manar-Moh",
+            "email": "manor.moh6@gmail.com"
+        }
+    ],
+    "require": {}
+}
